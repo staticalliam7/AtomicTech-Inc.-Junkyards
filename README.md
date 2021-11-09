@@ -29,4 +29,4 @@ Download Instructions
 
 IMPORTANT
 
-This requires Module Manager to function.
+This requires Module Manager and Atomic Technologies Incorporated to function.
