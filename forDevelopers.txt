@@ -1,0 +1,15 @@
+Hello! I'm James Ervin!
+
+I understand that you're probably reading this because I've addressed it specifically to you. I've moved to the BSD-3 License from the MIT License. You'll still be able to use my code just do the following:
+
+1.) Keep my LICENSE file in your code.
+2.) Add this .txt file into your code.
+Note for 1&2: You don't have to make it show up while your program is running, just leave it in where it can be easily found.
+3.) Mention me in your credits!
+4.) Don't use my code in illegal or legally ambiguous situations.
+
+Do all that and it's yours to use!
+
+Usage authorized by James Ervin. 
+
+Document Created November 16th, 2021
