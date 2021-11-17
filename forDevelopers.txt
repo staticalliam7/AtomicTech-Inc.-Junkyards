@@ -10,6 +10,4 @@ Note for 1&2: You don't have to make it show up while your program is running, j
 
 Do all that and it's yours to use!
 
-Usage authorized by James Ervin. 
-
 Document Created November 16th, 2021
