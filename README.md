@@ -1,7 +1,7 @@
 # AtomicTech-Inc.-Junkyards
 An odd selection of modified stock parts that've made their way into a mod.
 
-Specs!
+Specs, needs to be updated one of these days.
 
 LV-N "Nerv" mass increased to 3.0125.
 
