@@ -1,5 +1,5 @@
 {
-  "NAME": "AtomicTech-Inc.-Junkyards",
+  "NAME": "AT-Junkyards",
   "URL": "https://github.com/JamesErvin-5/AtomicTech-Inc.-Junkyards/raw/main/RadioactiveJunkyards.version",
   "DOWNLOAD": "https://github.com/JamesErvin-5/AtomicTech-Inc.-Junkyards/releases",
   "GITHUB": {
@@ -8,8 +8,8 @@
   },
   "VERSION": {
     "MAJOR": 0,
-    "MINOR": 9,
-    "PATCH": 0,
+    "MINOR": 13,
+    "PATCH": 3,
     "BUILD": 0
   },
   "KSP_VERSION": {
@@ -21,7 +21,7 @@
   "KSP_VERSION_MIN": {
     "MAJOR": 1,
     "MINOR": 12,
-    "PATCH": 0,
+    "PATCH": 2,
     "BUILD": 0
   }
 }
