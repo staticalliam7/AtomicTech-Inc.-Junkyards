@@ -1,3 +1,5 @@
+ColdJ's Original Note:
+
 Here you go. You have a model, a config that you can edit to make what you want, A layout png, a colour map png that you can use to vsualise where each surface is, and one with OLD in the title so that if you accidentally overwrite the colour map when creating your textures, you are ok. The colour map is the name that your final texture map will be called. The model is enabled for Kerbal Attachment System as a socket for the KAS hose to connect to. The current Resource set up is just to test that it worked properly, which it does. The written Atomic is just to show you where that panel is in the map, you might want to paint controls etc on that panel.
 Hope you can make it into your snack device. Just pop the Snacker folder directly in GameData to start, so that you can test and work, then edit and move later to what your folder structure will become.
 Enjoy.
